@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_kvadratine_funkcija"
+            android:icon="@drawable/ic_calculator_svgrepo_com"
+            android:title="Kvadratinė lygtis" />
+        <item
+            android:id="@+id/nav_meniu"
+            android:icon="@drawable/ic_profit_graph_svgrepo_com"
+            android:title="Braižyklė" />-->
+        <item
+            android:id="@+id/nav_funkcijos"
+            android:icon="@drawable/ic_function_svgrepo_com"
+            android:title="Naudingos funkcijos" />
+    </group>
+        <group android:id="@+id/group_menu">
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info_outline_black_24dp"
+                android:title="Apie" />
+            <item
+                android:id="@+id/nav_options"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Nustatymai" />
+        </group>
+</menu>

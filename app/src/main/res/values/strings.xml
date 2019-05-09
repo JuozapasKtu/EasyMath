@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Easy Math</string>
+    <string name="diskriminanto_skaiciuokle">Diskriminanto skaičiuoklė</string>
+    <string name="button_skaiciuoti">Skaičiuoti</string>
+    <string name="iveskite_a_b_c">Įveskite koeficiantus</string>
+    <string name="brezti">Brėžti</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="diskSkaiciuokle">Kvadratinė lytgis</string>
+    <string name="funkcijos">Naudingos funkcijos</string>
+    <string name="isnaujo">Iš naujo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_nustatymai">Nustatymai</string>
+    <string name="name">Vardas</string>
+    <string name="age">Amžius</string>
+    <string name="save">Saugoti</string>
+    <string name="title_activity_splash_screen">Easy Math</string>
+</resources>
